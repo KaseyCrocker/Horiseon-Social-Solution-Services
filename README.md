@@ -11,4 +11,8 @@ Restructuring the html element with more accurate semantic formatting
 Added a title element
 ```
 
-##
+## Live URL Link
+https://kaseycrocker.github.io/Horiseon-Social-Solution-Services/
+
+## Screenshot of Website
+![](Horiseon-Social-Solution-Services-Screenshot.png)
